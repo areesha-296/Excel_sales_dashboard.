@@ -27,4 +27,4 @@ The dataset used in this project was sourced from Kaggle and is used for learnin
 - Sales follow a clear monthly trend, with some periods performing better than others.
 
 ## Dashboard Preview
-![Sales Dashboard Screenshot](Dashboard.png)
+![Sales Dashboard Screenshot](dashboard.png)
